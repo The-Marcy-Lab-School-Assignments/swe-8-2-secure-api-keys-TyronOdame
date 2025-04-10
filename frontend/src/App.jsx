@@ -1,5 +1,5 @@
-import NavBar from './components/NavBar'
-import GifContainer from './components/GifContainer'
+import NavBar from './components/NavBar';
+import GifContainer from './components/GifContainer';
 import GifSearch from './components/GifSearch';
 
 function App() {
